@@ -1,0 +1,5 @@
+hi, i'm Mimi
+This is a sample text file.
+It contains multiple lines of text.
+We will process this file using Python.
+Let's count the words and convert the text to uppercase.
